@@ -1,0 +1,10 @@
+# R history and session files
+.Rhistory
+.RData
+.Ruserdata
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*

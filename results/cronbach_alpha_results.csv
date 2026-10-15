@@ -1,0 +1,10 @@
+"Scale","Num_Items","Alpha_Overall","Alpha_Mail","Alpha_Post","Alpha_Web"
+"Overall 18 items (全18項目総合)",18,0.913,0.911,0.905,0.924
+"Work-to-Family Conflict total (WFC計: 9項目)",9,0.87,0.87,0.872,0.872
+"  - Time-based WFC (時間に基づくWFC: 3項目)",3,0.91,0.911,0.92,0.897
+"  - Strain-based WFC (負担に基づくWFC: 3項目)",3,0.877,0.881,0.875,0.861
+"  - Behavior-based WFC (行動に基づくWFC: 3項目)",3,0.783,0.783,0.772,0.794
+"Family-to-Work Conflict total (FWC計: 9項目)",9,0.851,0.842,0.819,0.889
+"  - Time-based FWC (時間に基づくFWC: 3項目)",3,0.868,0.872,0.867,0.853
+"  - Strain-based FWC (負担に基づくFWC: 3項目)",3,0.889,0.872,0.881,0.938
+"  - Behavior-based FWC (行動に基づくFWC: 3項目)",3,0.89,0.882,0.905,0.907
